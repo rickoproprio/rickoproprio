@@ -7,9 +7,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickoproprio&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFF&bg_color=0d1117&cache_seconds=86400" />
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/henrique-araujo16/)
+
+</div>
+
 ---
 
-### **Studying in this moment:**
+### Studying in this moment:
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=FFF)
@@ -34,9 +38,6 @@
 
 ---
 
-### **GitHub Contribution Graph**
-<div align="center">
-  ![Henrique's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rickoproprio&bg_color=0d1117&color=1E90FF&line=1E90FF&point=1E90FF&area=true&hide_border=true)
-</div>
+![Henrique's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rickoproprio&bg_color=0d1117&color=1E90FF&line=1E90FF&point=1E90FF&area=true&hide_border=true&custom_title=Henrique's%20Contribution%20Graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
