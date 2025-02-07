@@ -13,30 +13,31 @@
 ---
 
 ### **Studying in this moment:**
-<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=FFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=FFF)
-![PHP](https://img.shields.io/badge/PHP-1E90FF?style=for-the-badge&logo=php&logoColor=FFF)
-![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=FFF)
-![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=java&logoColor=FFF)
-![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=FFF)
-
-<br/>
-
-![Next.js](https://img.shields.io/badge/Next.js-1E90FF?style=for-the-badge&logo=next.js&logoColor=FFF)
-![Node.js](https://img.shields.io/badge/Node.js-1E90FF?style=for-the-badge&logo=node.js&logoColor=FFF)
-![Express.js](https://img.shields.io/badge/Express.js-1E90FF?style=for-the-badge&logo=express&logoColor=FFF)
-![SQLite](https://img.shields.io/badge/SQLite-1E90FF?style=for-the-badge&logo=sqlite&logoColor=FFF)
-![SQL](https://img.shields.io/badge/SQL-1E90FF?style=for-the-badge&logo=database&logoColor=FFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-1E90FF?style=for-the-badge&logo=mongodb&logoColor=FFF)
-
-<br/>
-
-![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=FFF)
-![GitHub](https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=FFF)
-
-</div>
+<table align="center">
+  <tr>
+    <td>![TypeScript](https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=FFF)</td>
+    <td>![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=FFF)</td>
+    <td>![PHP](https://img.shields.io/badge/PHP-1E90FF?style=for-the-badge&logo=php&logoColor=FFF)</td>
+    <td>![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=FFF)</td>
+  </tr>
+  <tr>
+    <td>![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=java&logoColor=FFF)</td>
+    <td>![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=FFF)</td>
+    <td>![Next.js](https://img.shields.io/badge/Next.js-1E90FF?style=for-the-badge&logo=next.js&logoColor=FFF)</td>
+    <td>![Node.js](https://img.shields.io/badge/Node.js-1E90FF?style=for-the-badge&logo=node.js&logoColor=FFF)</td>
+  </tr>
+  <tr>
+    <td>![Express.js](https://img.shields.io/badge/Express.js-1E90FF?style=for-the-badge&logo=express&logoColor=FFF)</td>
+    <td>![SQLite](https://img.shields.io/badge/SQLite-1E90FF?style=for-the-badge&logo=sqlite&logoColor=FFF)</td>
+    <td>![SQL](https://img.shields.io/badge/SQL-1E90FF?style=for-the-badge&logo=database&logoColor=FFF)</td>
+    <td>![MongoDB](https://img.shields.io/badge/MongoDB-1E90FF?style=for-the-badge&logo=mongodb&logoColor=FFF)</td>
+  </tr>
+  <tr>
+    <td>![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=FFF)</td>
+    <td>![GitHub](https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=FFF)</td>
+  </tr>
+</table>
 
 ---
 
