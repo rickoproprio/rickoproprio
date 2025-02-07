@@ -14,10 +14,13 @@
 
 ### **Studying in this moment:**
 <div align="center">
-  
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=FFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E90FF?style=for-the-badge&logo=javascript&logoColor=FFF)
 ![PHP](https://img.shields.io/badge/PHP-1E90FF?style=for-the-badge&logo=php&logoColor=FFF)
+
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=FFF)
 ![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=java&logoColor=FFF)
 ![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=FFF)
@@ -29,13 +32,15 @@
 ![Express.js](https://img.shields.io/badge/Express.js-1E90FF?style=for-the-badge&logo=express&logoColor=FFF)
 
 <br/>
-![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=FFF)
-![GitHub](https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=FFF)
 
-<br/>
 ![SQLite](https://img.shields.io/badge/SQLite-1E90FF?style=for-the-badge&logo=sqlite&logoColor=FFF)
 ![SQL](https://img.shields.io/badge/SQL-1E90FF?style=for-the-badge&logo=database&logoColor=FFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1E90FF?style=for-the-badge&logo=mongodb&logoColor=FFF)
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=FFF)
+![GitHub](https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=FFF)
 
 </div>
 
