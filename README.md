@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rickoproprio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Henrique Araujo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickoproprio&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFF&bg_color=0d1117&cache_seconds=86400" />
-</div>
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/henrique-araujo16/)
 
